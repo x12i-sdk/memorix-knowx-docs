@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-knowx-docs",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-knowx-docs",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-knowx",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "List the bundled guides and read a use case",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:03:45.094130+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "e834879dbedba8ce01af3d0e732d6a2a38f03665ae85c4ae2e8bb4f7591009c6",
+    "manifestSha256": "5909265fddec7719932bd43d8522f30968aa0dc19b8ff3a6689abdd33668077f"
+  },
+  "npmPackages": [
+    "@x12i/memorix-knowx-docs"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
